@@ -1,0 +1,26 @@
+#baner{
+    background-color: #0000ff;
+    height: 270px;
+    padding: 10px;
+    text-align: center;
+} 
+#navi{
+    width: 150px;
+    float: left;
+}
+#glowna{
+    background-color: #00b4ea;
+    height: 450px;
+    font-family: Arial;
+    color: black;
+    padding:10px;
+   
+    
+}
+#stopka{
+    background-color: #0000ff;
+    font-family: Arial;
+    text-align: center;
+    padding: 10px;
+    
+}
