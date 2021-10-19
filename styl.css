@@ -1,0 +1,40 @@
+body
+{
+    background: black;
+}
+#baner
+{
+    width: 100%;
+    height: 420px;
+    background-color: black;
+    margin-top: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+
+}
+#b1
+{
+    width: 100%;
+    height: 50px;
+    align-content: center;
+    background-color: black;
+}
+#blok
+{
+    width: 500px;
+    height: 500px;
+}
+#opis
+{
+    text-align: center;
+}
+.dark
+{
+    width: 500px;
+    height: 500px;
+    
+}
+p
+{
+    color: gold;
+}
